@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+background-color:#7fffd4;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+div{
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 2px black;
+    box-align: center;
+}
+}
+h1{
+   color: #0d684a; 
+}
+h2{
+    color: #068b5f;
+}
+h1#principal{
+    text-align: center;
+    color: aliceblue;
+    background-color: #0d684a;
+}
+.basico{
+color: red;
+text-shadow: 2px 2px 2px rgb(97, 91, 91);
+}
+.intermediario{
+color: yellow;
+text-shadow: 2px 2px 2px rgb(97, 91, 91);
+}
+.avancado{
+color: green;
+text-shadow: 2px 2px 2px  rgb(97, 91, 91);
+}

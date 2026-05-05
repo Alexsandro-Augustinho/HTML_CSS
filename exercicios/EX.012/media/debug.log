@@ -1,0 +1,3 @@
+[0406/152144.989:INFO:electron\dropbox\shell\common\crashpad_lib_loader.cc:78] Crashpad lib path is empty
+[0406/152144.989:ERROR:electron\dropbox\shell\common\crashpad_lib_loader.cc:109] Cannot load add_simple_annotations function
+[0406/152144.990:ERROR:electron\dropbox\shell\common\crashpad_lib_loader.cc:169] No crashpad annotations provided
